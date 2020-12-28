@@ -13,7 +13,7 @@ function amF () {
 }
 
 
-//This is for Cool feature #1
+//This is for Cool feature #2
 let ourForm = document.getElementById("ourForm")
 let ourField = document.getElementById("ourField")
 let ourList = document.getElementById("ourList")
@@ -33,3 +33,4 @@ function createIteam(x) {
 function deleteItem(elementToDelete) {
   elementToDelete.parentElement.remove()
 }
+
